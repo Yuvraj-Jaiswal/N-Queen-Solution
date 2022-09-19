@@ -2,5 +2,6 @@
  This repo has solution to famous hard problem N-queen.
  
  N Queen 4x4 Board
- 
-![image](https://user-images.githubusercontent.com/83153656/190950905-7b371739-8b75-4095-9bbc-1c618b6a4469.png)
+
+![image](https://user-images.githubusercontent.com/83153656/190951199-625e2f8d-d471-4cea-ab23-980e07984d23.png)
+
